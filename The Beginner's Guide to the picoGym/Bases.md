@@ -51,9 +51,9 @@ python3 ENC_tool.py
    ```
 ![Local Image](img/Bases/h2.png "Local Image")
    ## 🎯 Flag
-     ```bash
+ ```bash
    picoCTF{l3arn_th3_r0p35}
-   ```
+ ```
    ## 💡 Key Takeaway
 ```bash
   This challenge demonstrates the simplicity and importance of understanding basic cryptographic techniques like Base64 encoding. 
