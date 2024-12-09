@@ -45,6 +45,7 @@ This requires understanding SSH commands, handling public key authentication, an
    Welcome ctf-player, here's your flag: picoCTF{s3cur3_c0nn3ct10n_65a7a106}
    ```
   ![Local Image](img/Super_SSH/h2.png "Local Image")
+  
 4. **Close the Connection:**
    The connection will close automatically after retrieving the flag.
 
