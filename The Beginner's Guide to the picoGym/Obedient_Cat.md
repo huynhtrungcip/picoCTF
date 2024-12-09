@@ -15,7 +15,7 @@ The task requires downloading a file and using basic Linux commands to retrieve 
 ---
 
 ## 🛠️ Steps to Solve
-
+![Local Image](img/Obedient_Cat/h1.png "Local Image")
 1. **Download the file:**
    ```bash
    wget https://mercury.picoctf.net/static/fb851c1858cc762bd4eed569013d7f00/flag
@@ -36,7 +36,7 @@ The task requires downloading a file and using basic Linux commands to retrieve 
    ```
    picoCTF{s4n1ty_v3r1f13d_28e8376d}
    ```
-
+   ![Local Image](img/Obedient_Cat/h2.png "Local Image")
 ---
 
 ## 🎯 Flag
