@@ -12,11 +12,10 @@
 ## 📜 Challenge Description
 The **Mod 26** challenge focuses on cryptography, specifically the ROT13 cipher. You are tasked with decoding a given ROT13-encrypted string to reveal the flag.
 
-    ![Local Image](img/Mod_26/h1.png "Local Image")
+ ![Local Image](img/Mod_26/h1.png "Local Image")
 ---
-
 ## 🛠️ Steps to Solve
-
+    
 1. **Download the ENC Tool:**
    To solve this challenge efficiently, use the custom ENC tool:
    ```bash
