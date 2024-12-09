@@ -16,7 +16,7 @@ Your goal is to connect to a remote server and retrieve the flag using `nc` (net
 ---
 
 ## 🛠️ Steps to Solve
-![Local Image](img/what's_a_net_cat?/h1.png "Local Image")
+![Local Image](img/what's_a_net_cat/h1.png "Local Image")
 
 1. **Connect to the Server:**
    Use the `nc` command to connect to the server:
@@ -37,7 +37,7 @@ Your goal is to connect to a remote server and retrieve the flag using `nc` (net
    ```
    picoCTF{nEtCat_Mast3ry_284be8f7}
    ```
-    ![Local Image](img/what's_a_net_cat?/h2.png "Local Image")
+    ![Local Image](img/what's_a_net_cat/h2.png "Local Image")
 ---
 
 ## 🎯 Flag
