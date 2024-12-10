@@ -10,8 +10,9 @@ Dive into these playlists to build a strong foundation in ethical hacking and cy
 
 ## 📚 Table of Contents
 
-- **[Beginner's Guide to the picoGym](The-Beginner's-Guide-to-the-picoCTF ))** 🎯  
+- **[The Beginner's Guide to the picoGym](#the-beginners-guide-to-the-picogym)** 🎯  
   A collection of approachable challenges that introduce various categories, with a focus on **General Skills**.
+**.
   
 - **[Cryptography and picoGym Learning Intro](#cryptography-and-picogym-learning-intro)** 🔐  
   Play the PicoLock puzzle game and dive into cryptography challenges covering Caesar Ciphers, RSA, and side-channel attacks.
