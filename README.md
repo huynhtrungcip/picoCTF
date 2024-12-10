@@ -10,7 +10,7 @@ Dive into these playlists to build a strong foundation in ethical hacking and cy
 
 ## 📚 Table of Contents
 
-- **[Beginner's Guide to the picoGym]([picoCTF/beginner's-guide-to-the-picogym]([https://github.com/huynhtrungcip/picoCTF/tree/main/The%20Beginner's%20Guide%20to%20the%20picoGym] ))** 🎯  
+- **[Beginner's Guide to the picoGym]([picoCTF/The-Beginner's-Guide-to-the-picoCTF] ))** 🎯  
   A collection of approachable challenges that introduce various categories, with a focus on **General Skills**.
   
 - **[Cryptography and picoGym Learning Intro](#cryptography-and-picogym-learning-intro)** 🔐  
