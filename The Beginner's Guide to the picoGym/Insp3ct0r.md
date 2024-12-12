@@ -58,12 +58,6 @@ Congratulations! You've successfully solved the **Insp3ct0r** challenge.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🤝 Contributions
 
 Feel free to fork this repository and contribute! Open pull requests are always welcome.
