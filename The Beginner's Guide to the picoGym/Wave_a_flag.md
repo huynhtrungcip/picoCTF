@@ -1,7 +1,7 @@
 # Wave a Flag - picoCTF Challenge 🏴‍☠️🔍
 
 **Version**: 1.0  
-**Author**: [Trung Huynh](https://www.linkedin.com/in/trung-huynh-chi-pc01/)  
+**Author**: [Trung Huynh](https://www.linkedin.com/in/trung-huynh-chi-pc01/)
 
 ![Challenge](https://img.shields.io/badge/Challenge-Type-blue?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=open-source-initiative&logoColor=white)  
@@ -9,6 +9,13 @@
 
 ---
 
+
+## 🌟 Introduction
+The **Wave a Flag** challenge is an entry-level task designed to familiarize participants with the basics of working with command-line binaries. It highlights the importance of understanding command-line flags and how they can be used to interact with and extract information from programs. By solving this challenge, you will gain insight into the role of flags (`-h`, `--help`, etc.) and their utility in debugging and navigating unfamiliar software.
+
+This exercise is a great starting point for beginners aiming to enhance their proficiency with terminal commands and binary analysis. It demonstrates how even simple commands can unveil valuable information in the context of CTF challenges and real-world scenarios.
+
+---
 
 ## 📜 Challenge Description
 The **Wave a Flag** challenge focuses on exploring the functionality of a binary file. The objective is to discover the flag by invoking the appropriate help flag (`-h`) of the provided binary file. This task encourages learning how to interact with command-line tools effectively.
