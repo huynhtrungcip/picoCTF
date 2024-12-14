@@ -31,6 +31,7 @@ Can you crack the password to get the flag? Download the password checker and en
    python3 level1.py
    ```
 4. Input the password to reveal the flag.
+
 ![Local Image](img/PW_Crack/h3.png "Local Image")
 ### 🚩 Flag
 `picoCTF{545h_r1ng1ng_fa343060}`
@@ -89,7 +90,7 @@ Crack the password by iterating through potential candidates.
    ```bash
    nano level3.py
    ```
-    ![Local Image](img/PW_Crack/h5.png "Local Image")
+    ![Local Image](img/PW_Crack/h8.png "Local Image")
 3. Modify it to test all passwords automatically:
    ```python
    def level_3_pw_check():
